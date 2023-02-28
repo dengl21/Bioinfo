@@ -68,17 +68,17 @@
 
 - Basic Command in Linux
 
-### 本学期生物信息学学习计划
+## 本学期生物信息学学习计划
 
 Following the course syllabus and Bioinformatics Tutorial
 
-#### Before class
+### Before class
 
 - 复习上节课内容
 
 - 简要预习Bioinformatics Tutorial中内容
 
-#### Before class
+### After class
 
 - 观看教学视频
 
